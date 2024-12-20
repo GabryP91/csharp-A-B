@@ -169,6 +169,8 @@ namespace csharp_A_B
 
             prova1.StampaVideo();
 
+
+            Console.WriteLine("ok");
         }
 
         public class Dipendente
